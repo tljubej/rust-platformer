@@ -1,0 +1,6 @@
+[package]
+name = "rust-platformer"
+version = "0.1.0"
+authors = ["Ljudi <sporbie@gmail.com>"]
+
+[dependencies]
